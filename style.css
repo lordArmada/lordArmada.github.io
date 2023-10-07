@@ -429,6 +429,9 @@ background-color:  #b6532c;
     margin-right: 10px;
     
   }
+  .ml-3 {
+    font-size: 2rem;
+  }
 }
 @media (max-width:330px)
 {
