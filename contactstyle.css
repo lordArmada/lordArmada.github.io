@@ -42,6 +42,9 @@ nav{
     margin-left: auto;
    
 }
+.hamburger{
+    background:white;
+}
 hr{
   height:2px;
   width: 100px;
