@@ -60,6 +60,11 @@ nav{
   align-items: center;
   margin-top: 1vh;
 }
+bar1 line,
+bar2 line,
+bar3 line{
+    color: white;
+}
 hr{
 height:2px;
 width: 100px;
